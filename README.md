@@ -34,6 +34,10 @@
     <img align="center" src="https://img.shields.io/github/followers/ArsNQ?label=follow&style=social"/>
   </a>
  &nbsp;
+  <a href="https://learn.acloud.guru/profile/arsn"> 
+   <img align="center" src="https://img.shields.io/badge/-aCloudGuru-important"/>
+  </a>
+ &nbsp;
  </p>
  
 ## 👨🏻‍💻 Technologies
