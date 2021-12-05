@@ -35,6 +35,7 @@
   </a>
  &nbsp;
  </p>
+ 
 ## 👨🏻‍💻 Technologies
 <p> Since the profession of devops requires to be good in multiple technologies and to know all the services of the providers. 
 I invite you to consult the list of technologies that I am learning or that I master.</p>
