@@ -13,6 +13,12 @@
   <!-- Badge - Profile View Counter -->
    <img src="https://komarev.com/ghpvc/?username=ArsNQ&style=plastic&color=0007c4">
 </p>
+ <p align="center">
+  <a href="https://github.com/ArsNQ/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArsNQ&show_icons=true&theme=algolia"/>
+  </a>
+ </p>
+</br>
 <p align="center">
   <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/quentin-tridon-609668143/">
@@ -24,14 +30,11 @@
     <img src="https://img.shields.io/badge/-My%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:quentin.tridon@epitech.eu">
   </a>
  &nbsp;
- </p>
- <p align="center">
-  <a href="https://github.com/ArsNQ/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArsNQ&show_icons=true&theme=algolia"/>
+  <a href="https://github.com/ArsNQ">
+    <img align="center" src="https://img.shields.io/github/followers/ArsNQ?label=follow&style=social"/>
   </a>
+ &nbsp;
  </p>
-</br>
-
 ## 👨🏻‍💻 Technologies
 <p> Since the profession of devops requires to be good in multiple technologies and to know all the services of the providers. 
 I invite you to consult the list of technologies that I am learning or that I master.</p>
