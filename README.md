@@ -20,26 +20,25 @@
  </p>
 </br>
 <p align="center">
-  <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/quentin-tridon-609668143/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e00cf?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-tridon-609668143/">
   </a>
   &nbsp;
-  <!-- Badge - Email -->
   <a href="mailto:quentin.tridon@epitech.eu">
     <img src="https://img.shields.io/badge/-My%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:quentin.tridon@epitech.eu">
+  </a>
+ &nbsp;
+ </p>
+ <p align="center">
+  <a href="https://learn.acloud.guru/profile/arsn"> 
+   <img align="center" src="https://img.shields.io/badge/-aCloudGuru_Profile-important"/>
   </a>
  &nbsp;
   <a href="https://github.com/ArsNQ">
     <img align="center" src="https://img.shields.io/github/followers/ArsNQ?label=follow&style=social"/>
   </a>
  &nbsp;
-  <a href="https://learn.acloud.guru/profile/arsn"> 
-   <img align="center" src="https://img.shields.io/badge/-aCloudGuru-important"/>
-  </a>
- &nbsp;
  </p>
- 
 ## 👨🏻‍💻 Technologies
 <p> Since the profession of devops requires to be good in multiple technologies and to know all the services of the providers. 
 I invite you to consult the list of technologies that I am learning or that I master.</p>
