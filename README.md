@@ -2,11 +2,15 @@
 ## Hi, my name is Quentin Tridon 👋
 </br>
 
-- :man_student:	I am currently in my last year of studies at **EPITECH Lille**, in a **Master of Architecture in System & Network Engineering**. 
-- :medal_sports: I want to become an experienced **DevOps engineer** on all the technologies that are in this job. 
-- :pushpin:	I would also like later to become a **cloud architect** and be able to create real infrastructures!
-- :open_file_folder: I invite you to visit my **public repositories**, where you can see **all my projects**. Whether they are already developed, or under development. 
-- :e-mail: **Many directories are private**, and if you want to **know more about me and these projects**, I invite you to **contact me by email or on linkedin!**
+🍁 I currently live in Montreal, Canada.
+
+👨‍🎓 Graduated from Epitech in 2022 with a master's degree in System and Network Engineering Architect.
+
+🏅 My vocation is to become a complete DevOps Engineer, both on the developer part and on the ops part.
+
+📌 I would also like to be able to design long-term cloud infrastructures (from network, to systems, to security).
+
+📧 Many directories are private, and if you want to know more about me and these projects, I invite you to contact me.
 </br>
 
 <p align="center">
