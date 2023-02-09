@@ -6,9 +6,7 @@
 
 👨‍🎓 Graduated from Epitech in 2022 with a master's degree in System and Network Engineering Architect.
 
-🏅 My vocation is to become a complete DevOps Engineer, both on the developer part and on the ops part.
-
-📌 I would also like to be able to design long-term cloud infrastructures (from network, to systems, to security).
+📌 I would like to be able to design long-term cloud infrastructures (from network, to systems, to security).
 
 📧 Many directories are private, and if you want to know more about me and these projects, I invite you to contact me.
 </br>
